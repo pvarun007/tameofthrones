@@ -1,0 +1,15 @@
+{
+    "name": "mytameofthrones",
+    "version": "1.0.0",
+    "description": "",
+    "main": "geektrust.js",
+    "scripts": {
+        "test": "mocha",
+        "start": "node geektrust.js"
+    },
+    "author": "Arun",
+    "license": "ISC",
+    "dependencies": {
+        "mocha": "^7.1.1"
+    }
+}
